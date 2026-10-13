@@ -1,5 +1,4 @@
-# Lexorion landing page
-
+# Lexorion 
 A responsive, no-build static site for Lexorion. The entire landing page and its interactive sample simulation live in `index.html`.
 
 ## Publish
